@@ -183,6 +183,8 @@ Query 10 could be useful for management to see what staffing needs are by lookin
 
 ## Database Information:
 
+Name of our database: ns_Sp24_61608_Group5
 
+Each query listed above is marked in the database using stored procedures. The procedures can be called using the following format: CALL TP_Qx(); (where ‘x’ is replaced by the query number)
 
 
