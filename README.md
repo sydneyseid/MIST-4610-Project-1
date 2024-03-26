@@ -9,7 +9,7 @@ Sp24_61608_Group 5
 3. Avanish Thota @avanish-thota27
 4. Haley Ford @HaleyFord
 5. Manafie Kabir @manafiekabir
-6. Nicholas Price
+6. Nicholas Price @nickprice347
 
 ## Problem Description:
 
