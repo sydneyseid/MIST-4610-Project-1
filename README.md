@@ -153,7 +153,7 @@ Query 7 lists the membership ID, member’s first name, and member’s last name
 <img width="635" alt="Screenshot 2024-03-26 at 6 13 59 PM" src="https://github.com/avanish-thota27/MIST4610GroupProject01/assets/152564332/3b30941c-eb27-4828-b30b-899e8d19d404">
 
 
-Query 7 allows management to see the financial behavior of members who joined in 2018 and compare the behavior with members who joined the club in other years. The information is useful in 
+Query 7 allows management to see the financial behavior of members who joined in 2018 and compare the behavior with members who joined the club in other years. The information is useful in determining whether members are satisfied with services and continuing retention efforts.
 
 
 Query 8 Description:
