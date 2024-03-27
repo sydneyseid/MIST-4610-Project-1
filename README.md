@@ -139,7 +139,7 @@ Query 5 allows the manager to see which staff members have “Pending” or unco
 
 Query 6 Description: 
 
-Query 6 lists the items in the pro shop’s inventory that are the brand Nike. The results are ordered in ascending order of the item price.
+Query 6 lists the items in the pro shop’s inventory that are the brand Nike.
 
 <img width="425" alt="Screenshot 2024-03-26 at 4 58 10 PM" src="https://github.com/avanish-thota27/MIST4610GroupProject01/assets/152564332/35134449-5037-4cab-b4b9-8be93ba7570c">
 
@@ -149,7 +149,7 @@ Query 6 shows which items are the brand Nike. This is helpful in that the pro sh
 
 Query 7 Description: 
 
-Query 7 lists the membership ID, member’s first name, and member’s last name of those who have a balance greater than the average balance of all members and became a member of the club in the year 2018. 
+Query 7 lists the member's ID, member’s first name, and member’s last name of those who have a balance greater than the average balance of all members and became a member of the club in the year 2018. 
 
 <img width="635" alt="Screenshot 2024-03-26 at 6 13 59 PM" src="https://github.com/avanish-thota27/MIST4610GroupProject01/assets/152564332/3b30941c-eb27-4828-b30b-899e8d19d404">
 
@@ -180,7 +180,7 @@ Query 9 could be useful for management to see what leagues are popular and can m
 
 Query 10 Description:
 
-Query 10 counts the number of members in each experience level category and groups them accordingly, this is useful for our manager.
+Query 10 counts the number of members in each experience level category and groups them accordingly.
 
 
 <img width="480" alt="Screenshot 2024-03-26 at 6 15 41 PM" src="https://github.com/avanish-thota27/MIST4610GroupProject01/assets/152564332/6547e719-960c-4b7a-9264-2e59c756e53a">
