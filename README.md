@@ -114,7 +114,8 @@ Query 4 Description:
 
 Query 4 lists the total transaction value for members whose individual total transaction value exceeds the average total transaction value across all members. 
 
-<img width="847" alt="Screenshot 2024-03-27 at 2 36 39 PM" src="https://github.com/sydneyseid/MIST-4610-Project-1/assets/163012786/7191734c-8e8b-42e4-bd38-02ea1b2dbbce">
+<img width="869" alt="Screenshot 2024-03-27 at 2 50 09 PM" src="https://github.com/sydneyseid/MIST-4610-Project-1/assets/163012786/6bb0c008-ed1d-4914-96cb-d71b1d35135f">
+
 
 
 
